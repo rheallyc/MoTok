@@ -29,3 +29,21 @@ On HumanML3D, our method significantly improves controllability and fidelity ove
 
 - [2026/03/20] Repository created.
 
+## Citation
+
+If you find our work useful for your research, please consider citing the paper:
+
+```
+@article{gu2026motok,
+      title   = {Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer}, 
+      author  = {Chenyang Gu and 
+                 Mingyuan Zhang and 
+                 Haozhe Xie and 
+                 Zhongang Cai and 
+                 Lei Yang and 
+                 Ziwei Liu},
+      journal = {arXiv},
+      volume  = {2603.19227},
+      year    = {2026}
+}
+```
