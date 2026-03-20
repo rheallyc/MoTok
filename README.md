@@ -4,7 +4,7 @@
 
 <h4 align="center">
   <a href="https://rheallyc.github.io/projects/motok/" target='_blank'>[Project Page]</a> •
-  <a href="https://www.youtube.com/watch?v=qJ92eFdUQNI" target='_blank'>[Demo Video]</a> 
+  <a href="https://www.youtube.com/watch?v=qJ92eFdUQNI" target='_blank'>[Demo Video]</a> •
   <a href="https://arxiv.org/abs/2603.19227v1" target='_blank'>[arXiv]</a> •
   <a href="https://huggingface.co/papers/2603.19227" target='_blank'>[Hugging Face Paper]</a> 
   <br> <br>
